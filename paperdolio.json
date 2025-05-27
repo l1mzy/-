@@ -9,10 +9,10 @@
     "appgallery_panic": false,
     "rustore_panic": false,
 
-    "appgallery_review" : true,
-    "google_review"     : true,
-    "apple_review"      : true,
-    "rustore_review"    : true,
+    "appgallery_review" : false,
+    "google_review"     : false,
+    "apple_review"      : false,
+    "rustore_review"    : false,
     "apk_review"        : false,
     "review_api_socket" : "ws://m1client-test.vibegames.tech/ws3",
 

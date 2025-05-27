@@ -13,7 +13,7 @@
     "google_review"     : true,
     "apple_review"      : true,
     "rustore_review"    : true,
-    "apk_review"        : true,
+    "apk_review"        : false,
     "review_api_socket" : "ws://m1client-test.vibegames.tech/ws3",
 
     "review_files_list":    "https://test-client-cdn.matrp.ru/test_builds/builds/build_5-0-0_003f76ef/files_list.json", 
